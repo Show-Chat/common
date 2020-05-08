@@ -1,0 +1,17 @@
+.kiwi-nicklist-user--away::after {
+    content: '\f7b6';
+    font-size: 1em;
+    line-height: 33px;
+    color: #00263e;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+
+.kiwi-nicklist-user--ignore::after {
+    content: '\f506';
+    font-size: 1em;
+    line-height: 33px;
+    color: #293a42;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}

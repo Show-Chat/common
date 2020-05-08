@@ -1,0 +1,190 @@
+
+
+.kiwi-network-name-hover-icon { display: none; }
+
+.kiwi-network-name-options { display: none; }
+
+
+    
+.kiwi-messagelist-message--modern[data-nick="martin"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/martin.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+.kiwi-messagelist-message--modern[data-nick="tiburon48"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/tibu.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="vane_"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/vane.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="aether"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/aether.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+.kiwi-messagelist-message--modern[data-nick="histerica"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/histerica.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="[namger30]"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/nam.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+
+
+.kiwi-messagelist-message--modern[data-nick="cletus"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/cletus.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+
+.kiwi-messagelist-message--modern[data-nick="{-andress_}"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/andres.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="bonvivant"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/gabi.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+.kiwi-messagelist-message--modern[data-nick="konecta2"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/gabi.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+
+
+.kiwi-messagelist-message--modern[data-nick="adriana"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/adriana.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+
+/* USUARIOS */
+
+
+.kiwi-messagelist-message--modern[data-nick="fabian"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/fabian.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="cisco"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/fabian.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+.kiwi-messagelist-message--modern[data-nick="janayna"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/jana.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="firulais"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/firu.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="thanos"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/thanos.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+
+
+.kiwi-messagelist-message--modern[data-nick="laloca"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/laloca.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+.kiwi-messagelist-message--modern[data-nick^="pas"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/pas.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+/* NICKS GENERICOS */
+
+
+.kiwi-messagelist-message--modern[data-nick^="act"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/act.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick^="chup"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/chupo.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+ .kiwi-messagelist-message--modern[data-nick^="oso"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/oso.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+
+.kiwi-messagelist-message--modern[data-nick^="tax"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/taxy.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+
+.kiwi-messagelist-message--modern[data-nick^="casad"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/casado.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick^="reserv"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/res.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick^="parej"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/parej.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick^="busc"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/busco.jpg);
+    background-size: contain;
+    font-size: 0px;
+}

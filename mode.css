@@ -1,0 +1,86 @@
+.kiwi-nicklist-user--mode-o::after {
+    content: 'oper';
+    font-size: 0.7em;
+    line-height: 26px;
+    color: #607d8b;
+    font-weight: 600;
+    font-family: saira,sans-serif;
+    vertical-align: super;}
+
+
+.kiwi-nicklist-user--mode-a::after {
+    content: 'admin';
+    font-size: 0.7em;
+    line-height: 26px;
+    color: #607d8b;
+    font-weight: 600;
+    font-family: saira,sans-serif;
+    vertical-align: super;}
+
+.kiwi-nicklist-user--mode-q::after {
+    content: 'owner';
+    font-size: 0.7em;
+    line-height: 26px;
+    color: #607d8b;
+    font-weight: 600;
+    font-family: saira,sans-serif;
+    vertical-align: super;}
+
+
+.kiwi-nicklist-user--mode-v::after {
+    content: 'vip';
+    font-size: 0.7em;
+    line-height: 26px;
+    color: #607d8b;
+    font-weight: 600;
+    font-family: saira,sans-serif;
+    vertical-align: super;}
+
+.kiwi-nicklist-user--mode-h::after {
+    content: 'staff';
+    font-size: 0.7em;
+    line-height: 26px;
+    color: #607d8b;
+    font-weight: 600;
+    font-family: saira,sans-serif;
+    vertical-align: super;}
+
+
+
+.kiwi-messagelist-message--user-mode-v .kiwi-messagelist-nick::before { 
+    content: 'vip';
+    font-size: 10px;
+    margin: 3px;
+    vertical-align: super;
+    color: #293a42;}
+
+
+.kiwi-messagelist-message--user-mode-h .kiwi-messagelist-nick::before { 
+    content: 'staff';
+    font-size: 10px;
+    margin: 3px;
+    vertical-align: super;
+    color: #293a42;}
+
+
+.kiwi-messagelist-message--user-mode-a .kiwi-messagelist-nick::before { 
+    content: 'Admin';
+    font-size: 10px;
+    margin: 3px;
+    vertical-align: super;
+    color: #293a42;}
+
+.kiwi-messagelist-message--user-mode-o .kiwi-messagelist-nick::before { 
+    content: 'oper';
+    font-size: 10px;
+    margin: 3px;
+    vertical-align: super;
+    color: #293a42;}
+
+
+.kiwi-messagelist-message--user-mode-q .kiwi-messagelist-nick::before { 
+    content: 'owner';
+    font-size: 10px;
+    margin: 3px;
+    vertical-align: super;
+    color: #293a42;}

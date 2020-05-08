@@ -1,0 +1,103 @@
+
+.fa-frown-o:before {
+    content: "\F119";
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+}
+
+
+
+.fa-refresh:before {
+    content: "\F021";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+
+.fa-adjust:before {
+    content: "\f53f";
+    color: #293a42;
+    font-size: 17px;
+}
+
+
+.fa fa-refresh fa-spin{
+    content: "\f53f";
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+}
+
+
+
+.fa-star-o:before {
+    content: "\f005";
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+}
+
+.fa-arrow-circle-o-right:before {
+    content: "\f1e6";
+    font-size: 23px;
+}
+
+.fa-smile-o:before {
+    content: "\F118";
+    color: #293a42;
+    font-weight: 700;
+}
+
+.fa-picture-o:before {
+    content: "\F03E";
+    color: #293a42;
+}
+
+.fa-camera:before {
+    content: "\F030";
+    color: #293a42;
+}
+
+.fa-registered:before {
+    content: "\F25D";
+    font-size: 18px;
+}
+
+.fa-lock:before {
+    content: "\F023";
+    font-size: 16px;
+    margin: 0.1em;
+    color: #293a42;
+}
+
+.fa-navicon:before, .fa-reorder:before, .fa-bars:before {
+    content: "\f0c9";
+    color: #293a42;
+}
+
+.fa-send:before, .fa-paper-plane:before {
+    content: "\F1D8";
+    font-size: 15px;
+    color: #293a42;
+}
+
+
+.fa-list:before {
+    content: "\f0ca";
+}
+
+
+.fa-chevron-right:before {
+    content: "\f04b";
+    cursor: pointer;
+}
+
+.fa-remove:before, .fa-close:before, .fa-times:before {
+    content: "\f00d";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 15px;
+}
+
+.fa-comment-o:before {
+    content: "\f27a";
+    font-size: 12px;
+}
+

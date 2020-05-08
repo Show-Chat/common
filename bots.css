@@ -1,0 +1,100 @@
+
+
+.kiwi-messagelist-message--modern[data-nick="youtube"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/youtube.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="pinion-flojo"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/pinion.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="ladybug"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/lady.png);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="viarosario"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/via.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="x"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/bot.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="m-sapem"] .kiwi-messagelist-avatar{
+    background-image: url(avatars/misio.jpg);
+    background-size: contain;
+    font-size: 0px;
+}
+
+
+.kiwi-nicklist-user[data-nick="viarosario"]:before 
+{  content: ""; 
+background: url(avatars/via.jpg); 
+display: inline-block; width: 25px; 
+height: 25px; background-size: cover;margin-right: -12px;float: left;margin-top: 4px;overflow: hidden;
+border-radius: 15px;
+}
+
+.kiwi-nicklist-user[data-nick="m-sapem"]:before 
+{  content: ""; 
+background: url(avatars/misio.jpg); 
+display: inline-block; width: 25px; 
+height: 25px; background-size: cover;margin-right: -12px;float: left;margin-top: 4px;overflow: hidden;
+border-radius: 15px;
+}
+
+
+.kiwi-nicklist-user[data-nick="x"]:before 
+{  content: ""; 
+background: url(avatars/bot.jpg); 
+display: inline-block; width: 25px; 
+height: 25px; background-size: cover;margin-right: -12px;float: left;margin-top: 4px;overflow: hidden;
+border-radius: 15px;
+}
+
+
+//avatar//
+
+.kiwi-nicklist-user[data-nick="ladybug"]:before 
+{  content: ""; 
+background: url(avatars/lady.png); 
+display: inline-block; width: 25px; 
+height: 25px; background-size: cover;margin-right: -12px;float: left;margin-top: 4px;overflow: hidden;
+border-radius: 15px;
+}
+
+.kiwi-nicklist-user[data-nick="pinion-flojo"]:before 
+{  content: ""; 
+background: url(avatars/pinion.jpg); 
+display: inline-block; width: 25px; 
+height: 25px; background-size: cover;margin-right: -12px;float: left;margin-top: 4px;overflow: hidden;
+border-radius: 15px;
+}
+
+.kiwi-nicklist-user[data-nick="youtube"]:before 
+{  content: ""; 
+background: url(avatars/youtube.jpg); 
+display: inline-block; width: 25px; 
+height: 25px; background-size: cover;margin-right: -12px;float: left;margin-top: 4px;overflow: hidden;
+border-radius: 15px;
+}
+
+.kiwi-messagelist-message--modern[data-nick="youtube"] .kiwi-messagelist-nick::before {
+    content: '\f544';
+    font-size: 21px;
+    color: #005093;
+    line-height: 21px;
+    padding-right: 3px;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
